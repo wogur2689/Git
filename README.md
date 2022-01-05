@@ -6,8 +6,8 @@ git + github 공부
 1. git --version
 2. git init //버전관리
 3. git config --global core.autocrlf true
-4. git config --global user.name 'wogur2689'
-5. git config --global user.email 'anfvnxntm@naver.com'
+4. git config --global user.name ''
+5. git config --global user.email '이메일'
 6. git config --global --list
 
 1. git init //버전관리 선언
