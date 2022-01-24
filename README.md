@@ -19,3 +19,8 @@ git + github 공부
 7. git branch -M main                         //브랜치 메인
 8. git remote add origin 깃헙저장소git파일주소 //원격으로 origin이라는 저장소 추가
 9. git push origin master                     //원격의 저장소에 프로젝트 업로드 //필수
+
+# 음악리스트 사이트
+git remote add origin https://github.com/wogur2689/MusicWeb.git
+git branch -M main
+git push -u origin main
