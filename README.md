@@ -21,6 +21,6 @@ git + github 공부
 9. git push origin master                     //원격의 저장소에 프로젝트 업로드 //필수
 
 # 음악리스트 사이트
-git remote add origin https://github.com/wogur2689/MusicWeb.git
-git branch -M main
-git push -u origin main
+1. git remote add origin https://github.com/wogur2689/MusicWeb.git
+2. git branch -M main //브랜치 master이라 쓰기 x 커밋을 작성해야함.
+3. git push -u origin main
