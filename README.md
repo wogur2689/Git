@@ -20,7 +20,13 @@ git + github 공부
 8. git remote add origin 깃헙저장소git파일주소 //원격으로 origin이라는 저장소 추가
 9. git push origin master                     //원격의 저장소에 프로젝트 업로드 //필수
 
-# 음악리스트 사이트
-1. git remote add origin https://github.com/wogur2689/MusicWeb.git
-2. git branch -M main //브랜치 master이라 쓰기 x 커밋을 작성해야함.
-3. git push -u origin main
+
+주로 쓰는건
+1. commit
+2. Push
+3. Pull
+
+작업을 다하고 commit -> push
+다른사람의 작업내역을 받을려면 pull
+이것을 생활화해야 문제가 안생긴다.
+Github Desktop를 사용하면 간단하게 커밋, 푸쉬, 풀이 가능함.
