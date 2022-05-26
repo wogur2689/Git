@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 void main() {
+    /* git merge*/
     int a = 30;
     int s = 10;
     printf("hello world");
